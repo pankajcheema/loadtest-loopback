@@ -1,0 +1,14 @@
+{
+  "name": "postgress",
+  "connector": "postgresql",
+  "url": "",
+  "host": "127.0.0.1",
+  "port": 5432,
+  "user": "postgres",
+  "password": "blank@123",
+  "database": "loadtest",
+  "min": 0,
+  "max": 0,
+  "idleTimeoutMillis": 60000
+
+}
